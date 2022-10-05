@@ -10,8 +10,12 @@ You can be generated a lot of Shimarin images by [stable-diffusion](https://gith
 
 # Guide
 Embedding file is [here](https://github.com/Ebycow/shima-rinversion/tree/main/no_bun/checkpoints).  
+
 Current embedding file are create based on [waifu-diffusion-v1-3 model-epoch06-float32.ckpt](https://huggingface.co/hakurei/waifu-diffusion-v1-3/tree/main) - Model hash: 3a672a8a, and inversion by used [InvokeAI](https://github.com/invoke-ai/InvokeAI).  
+
+Since it was inversion based on waifu-diffusion, it was published as a repository on github.
 
 # HELP WE
 We need more Shimarin. but sadnessly, I insufficient computing resources and funds.  
 If you love Shimarin and stable-diffusion, burn your GPU for Shimarin! and I would appreciate it if you could publish the results.
+
